@@ -1,0 +1,8 @@
+{ 
+	"name":"zenite/jobkiss",
+	"autoload":{
+		"psr-4":{
+			"APP\\": "app/"
+		}
+	}
+}
